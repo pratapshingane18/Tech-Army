@@ -1,4 +1,4 @@
-
+// start of the program
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
@@ -30,7 +30,7 @@ void security_pass::factors()
      pass_factors.clear();
     factor_no = 10;
     
-         
+   
     do
     {
         cout << endl
